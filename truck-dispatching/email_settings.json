@@ -1,0 +1,1 @@
+{"smtp_host":"smtp.gmail.com","smtp_port":"587","smtp_username":"admin","smtp_password":"admin123","from_email":"dispatcher@yourcompany.com","from_name":"Truck Dispatching System","email_mode":"safe"}

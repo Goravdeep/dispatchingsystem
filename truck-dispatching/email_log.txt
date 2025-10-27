@@ -1,0 +1,27 @@
+2025-10-19 08:12:59 - 📧 Email READY to send to: woww@gamil.vo - Dispatch: 3 - Status: delivered
+2025-10-19 08:15:23 - 📧 Email READY to send to: sarah@xyzlogistics.com - Dispatch: 4 - Status: assigned
+2025-10-19 08:16:17 - 📧 Email READY to send to: sarah@xyzlogistics.com - Dispatch: 4 - Status: assigned
+2025-10-19 09:47:04 - Prepared email for driver John Smith (john@example.com) - Status: delivered
+2025-10-19 09:47:04 - SAFE MODE: Email to John Smith would be sent (Status: delivered)
+2025-10-19 09:48:11 - Prepared email for driver John Smith (john@example.com) - Status: delivered
+2025-10-19 09:48:11 - SAFE MODE: Email to John Smith would be sent (Status: delivered)
+2025-10-19 09:48:15 - Prepared email for driver Mike Johnson (mike@example.com) - Status: delivered
+2025-10-19 09:48:15 - SAFE MODE: Email to Mike Johnson would be sent (Status: delivered)
+2025-10-19 09:48:23 - Prepared email for driver Mike Johnson (mike@example.com) - Status: delivered
+2025-10-19 09:48:23 - SAFE MODE: Email to Mike Johnson would be sent (Status: delivered)
+2025-10-19 09:52:09 - Prepared email for driver John Smith (john@example.com) - Status: delivered
+2025-10-19 09:52:09 - SAFE MODE: Email to John Smith would be sent (Status: delivered)
+2025-10-19 09:52:13 - Prepared email for driver Mike Johnson (mike@example.com) - Status: delivered
+2025-10-19 09:52:13 - SAFE MODE: Email to Mike Johnson would be sent (Status: delivered)
+2025-10-19 10:45:51 - Prepared email for driver John Smith (john@example.com) - Status: delivered
+2025-10-19 10:45:51 - SAFE MODE: Email to John Smith would be sent (Status: delivered)
+2025-10-19 10:45:56 - Prepared email for driver Mike Johnson (mike@example.com) - Status: delivered
+2025-10-19 10:45:56 - SAFE MODE: Email to Mike Johnson would be sent (Status: delivered)
+2025-10-23 15:29:17 - Prepared email for driver John Smith (john@example.com) - Status: at_delivery
+2025-10-23 15:29:17 - SAFE MODE: Email to John Smith would be sent (Status: at_delivery)
+2025-10-23 15:29:21 - Prepared email for driver John Smith (john@example.com) - Status: dispatched
+2025-10-23 15:29:21 - SAFE MODE: Email to John Smith would be sent (Status: dispatched)
+2025-10-23 15:29:25 - Prepared email for driver John Smith (john@example.com) - Status: at_pickup
+2025-10-23 15:29:25 - SAFE MODE: Email to John Smith would be sent (Status: at_pickup)
+2025-10-23 15:29:29 - Prepared email for driver John Smith (john@example.com) - Status: at_delivery
+2025-10-23 15:29:29 - SAFE MODE: Email to John Smith would be sent (Status: at_delivery)
